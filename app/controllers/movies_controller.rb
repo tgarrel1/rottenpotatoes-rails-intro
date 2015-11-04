@@ -1,3 +1,4 @@
+# homework 2 parts 1,2,3 complete
 class MoviesController < ApplicationController
 
   def movie_params
